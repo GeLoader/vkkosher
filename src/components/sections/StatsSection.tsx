@@ -43,8 +43,8 @@ const StatsStrip = () => {
   const stats = [
     { value: 5000, suffix: '+', label: 'Products Certified Worldwide', desc: '', icon: Box },
     // { value: 70, suffix: '+', label: 'Years of Experience', desc: '', icon: ThumbsUp },
-    { value: 1125, suffix: '+', label: 'Massive facilities', desc: '', icon: Award },
     { value: 4, suffix: '', label: 'Generations of Trusted Leadership', desc: '', icon: Award },
+    { value: 1125, suffix: '+', label: 'Massive facilities', desc: '', icon: Award },
     { value: 6, suffix: '+', label: 'Continents Served', desc: '', icon: Globe },
   ];
 
