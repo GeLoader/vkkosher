@@ -13,10 +13,10 @@ const Footer: React.FC = () => {
                 alt="Volove Kashrus Logo" 
                 className="h-8 w-8 mr-2"
               />
-              <span className="font-serif text-xl font-bold">Volove Kashrus</span>
+              <span className="font-serif text-xl font-bold">Volove Kosher</span>
             </div>
             <p className="mb-4 text-gray-300">
-              Providing the highest standard of kosher certification since 1985.
+              Providing the highest standard of kosher certification since 1955.
             </p>
             {/* <div className="flex space-x-4">
               <a href="#" className="text-gray-300 hover:text-gold transition-colors">
@@ -85,7 +85,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="mt-12 pt-6 border-t border-gray-700 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Volove Kashrus. All rights reserved. Powered by <a href="https://uppertech.net/" target="_blank">Uppertech</a></p>
+          <p>&copy; {new Date().getFullYear()} Volove Kosher. All rights reserved. Powered by <a href="https://uppertech.net/" target="_blank">Uppertech</a></p>
         </div>
       </div>
     </footer>

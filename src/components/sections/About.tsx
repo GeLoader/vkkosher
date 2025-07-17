@@ -49,6 +49,9 @@ const About: React.FC = () => {
             With years of experience in kosher certification, we understand the intricate requirements businesses need to meet to achieve 
             and maintain the highest kashrus standards. Our knowledgeable team is dedicated to guiding you through the certification process, 
             ensuring that every aspect of your operation aligns with kosher standards. We pride ourselves on our attention to detail and commitment to excellence, helping you confidently achieve the certification you need.
+            <br></br> <br></br>
+            With over 1,125 massive facilities, we have successfully implemented a smooth, high-end Kashrus protocol. Join us and experience the quality and integrity of our services.
+            We pride ourselves on our attention to detail and commitment to excellence, helping you confidently achieve the certification you need.
             </p>
           </div>
           
