@@ -39,7 +39,7 @@ const NumberCounter = ({ end, duration, suffix = '' }: NumberCounterProps) => {
           observer.unobserve(entry.target);
         }
       },
-      { threshold: 0.5 }  
+      { threshold: 0.5 } // Trigger when 50% of element is visible
     );
 
     if (counterRef.current) {
