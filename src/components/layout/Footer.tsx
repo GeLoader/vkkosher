@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-start">
                 <Mail className="h-5 w-5 text-gold mr-2 mt-0.5" />
-                <span>Rbtoffice@vkkosher.org</span>
+                <span>info@volovekosher.org</span>
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-gold mr-2 mt-0.5" />
