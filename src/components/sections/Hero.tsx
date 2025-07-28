@@ -20,21 +20,11 @@ const Hero: React.FC = () => {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{ 
-          backgroundImage: `url('${import.meta.env.BASE_URL}/pexels-anntarazevich-5425648 old.jpg')`, 
+          backgroundImage: `url('${import.meta.env.BASE_URL}/pexels-anntarazevich-v5.jpg')`, 
         }}
       >
         <div className="absolute inset-0 bg-navy bg-opacity-70"></div>
-  
-       <div className="relative z-10 flex flex-col items-center justify-center h-full">
-        <div className="text-center mt-72">
-          <p className="text-2xl leading-tight mt-24 ml-24  text-blue-100 opacity-50" style={{ fontFamily: "'Tempting', cursive", transform: 'rotate(-20deg)' }}>
-            The Premier KASHRUS Organization
-          </p>
-          <p className="text-2xl leading-tight mt-4 ml-24 text-gold opacity-50" style={{ fontFamily: "'Tempting', cursive", transform: 'rotate(-20deg)' }}>
-            The Premier KASHRUS Organization
-          </p>
-        </div>
-      </div>
+   
         
       </div>
 
