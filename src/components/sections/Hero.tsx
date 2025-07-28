@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
           backgroundImage: `url('${import.meta.env.BASE_URL}/pexels-anntarazevich-v5.jpg')`, 
         }}
       >
-        <div className="absolute inset-0 bg-navy bg-opacity-70"></div>
+        <div className="absolute inset-0 bg-navy bg-opacity-60"></div>
    
         
       </div>
