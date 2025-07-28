@@ -24,6 +24,18 @@ const Hero: React.FC = () => {
         }}
       >
         <div className="absolute inset-0 bg-navy bg-opacity-70"></div>
+  
+       <div className="relative z-10 flex flex-col items-center justify-center h-full">
+        <div className="text-center mt-72">
+          <p className="text-2xl leading-tight mt-24 ml-24  text-blue-100 opacity-50" style={{ fontFamily: "'Tempting', cursive", transform: 'rotate(-20deg)' }}>
+            The Premier KASHRUS Organization
+          </p>
+          <p className="text-2xl leading-tight mt-4 ml-24 text-gold opacity-50" style={{ fontFamily: "'Tempting', cursive", transform: 'rotate(-20deg)' }}>
+            The Premier KASHRUS Organization
+          </p>
+        </div>
+      </div>
+        
       </div>
 
       <div className="container mx-auto px-4 md:px-6 relative z-10">
