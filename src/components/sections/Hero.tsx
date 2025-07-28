@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{ 
-          backgroundImage: `url('${import.meta.env.BASE_URL}/pexels-anntarazevich-v44.jpg')`, 
+          backgroundImage: `url('${import.meta.env.BASE_URL}/pexels-anntarazevich-5425648 old.jpg')`, 
         }}
       >
         <div className="absolute inset-0 bg-navy bg-opacity-70"></div>
@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
       >
         <span className="whitespace-nowrap">VOLOVE IS THE HECHSHER</span>
       </div> */}
-        <div className="max-w-3xl">
+      <div className="max-w-3xl">
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6 leading-tight mt-16">
           The Highest Standard in Kosher Certification. 
           <h2 className="font-serif text-1xl md:text-2xl  font-bold text-white mb-6 leading-tight">
@@ -69,7 +69,7 @@ const Hero: React.FC = () => {
             </a>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-white">
+          <div className="grid grid-cols-1 sm:grid-cols-1 gap-3 text-white">
             <div className="flex items-center">
               <CheckCircle className="h-5 w-5 text-gold mr-2" />
               <span>Globally recognized certification</span>
@@ -90,7 +90,7 @@ const Hero: React.FC = () => {
           </div>
         </div>
       </div>
-    </section>
+  </section>
   );
 };
 
